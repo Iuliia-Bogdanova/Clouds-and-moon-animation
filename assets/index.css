@@ -1,0 +1,54 @@
+@import url(./reset.css);
+
+body {
+
+}
+
+.wrapper {
+    min-height: 100%;
+    overflow: clip;
+    position: relative;
+}
+.page {
+}
+.page__clouds {
+    position: absolute;
+    width: 100%;
+    height: 80%;
+    top: 0;
+    left: 0;
+    display: flex;
+    gap: 10%;
+    justify-content: space-evenly;
+}
+.page__cloud {
+    transform-origin: top;
+}
+.page__cloud:first-child {
+    animation: clouds 7s infinite ease-in-out alternate;
+}
+.page__cloud:last-child {
+    animation: clouds 6.6s infinite ease-in-out alternate-reverse;
+}
+.page__cloud img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: top;
+}
+@keyframes clouds {
+    0% {
+        transform: rotate(-5deg);
+    }
+    100% {
+        transform: rotate(5deg);
+    }
+}
+.page__moon {
+}
+.moon {
+}
+.moon__box {
+}
+.moon__item {
+}
