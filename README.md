@@ -8,3 +8,5 @@
 <img src="./assets/img/promo.gif" alt="Clouds and moon animation">
 
 <h4 align="center">Relax and enjoy!</h4>
+
+<p>This site is live at <a href="https://iuliia-bogdanova.github.io/Clouds-and-moon-animation/"></a></p>
