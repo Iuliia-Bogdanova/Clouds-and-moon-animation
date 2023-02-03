@@ -9,4 +9,4 @@
 
 <h4 align="center">Relax and enjoy!</h4>
 
-<p>This site is live at <a href="https://iuliia-bogdanova.github.io/Clouds-and-moon-animation/"></a></p>
+This site is live at https://iuliia-bogdanova.github.io/Clouds-and-moon-animation/
