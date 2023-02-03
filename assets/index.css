@@ -15,7 +15,7 @@
     display: flex;
     gap: 10%;
     justify-content: space-evenly;
-    animation: clouds-show 1s ease forwards;
+    animation: clouds-show 2s ease forwards;
 }
 
 .page__cloud {

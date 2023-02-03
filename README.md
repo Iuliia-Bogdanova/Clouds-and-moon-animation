@@ -1,9 +1,10 @@
-Clouds and moon animation with HTML CSS. Screen cast. Code Only
+<h1 align="center">Hello, I'm Iuliia, a frontend developer<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-https://www.youtube.com/watch?v=8HYXP72EGzs&t=28s
+<h3 align="center">My skills:<h3>
+<p>HTML5, CSS3, Sacc, БЭМ, Bootstrap, Git, JavaScript, Ajax, ООП, Node.js, React</p>
 
-Clouds and moon animation with HTML CSS. Screen cast. Code Only. In this video i`ll show you how to create cool animation with HTML CSS only. HTML CSS JS tutorials for beginners
+<h4>In this project - Clouds and moon animation with HTML CSS</h4>
+<p>Special thanks to Evgeny Andrikanich (Code Only, Фрілансер по життю)<p>
+<img src="./assets/img/promo.gif" alt="Clouds and moon animation">
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h4 align="center">Relax and enjoy!</h4>
