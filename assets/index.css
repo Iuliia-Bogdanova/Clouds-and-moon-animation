@@ -21,11 +21,14 @@
 .page__cloud {
     transform-origin: top;
     z-index: 2;
-    animation: clouds 6.6s infinite ease-in-out alternate-reverse;
 }
 
-.page__cloud:first-child {
+.cloud-left {
     animation: clouds 7s infinite ease-in-out alternate;
+}
+
+.cloud-right {
+    animation: clouds 6.6s infinite ease-in-out alternate-reverse;
 }
 
 .page__cloud img {
