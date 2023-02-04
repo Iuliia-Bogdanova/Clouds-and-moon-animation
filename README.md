@@ -1,7 +1,48 @@
-<h1 align="center">Hello, I'm Iuliia, junior frontend developer <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hello, Wolrd! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<h2 align="center">I'm Iuliia, frontend developer <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
 <h3 align="center">My skills:<h3>
-<p>HTML5, CSS3, Bootstrap, БЭМ, Git, JavaScript, Ajax, React</p>
+<!-- <p>HTML5, CSS3, Bootstrap, БЭМ, Git, JavaScript, Ajax, React</p> -->
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>VSC</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>JS</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+            </td>           
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>PS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>npm</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="40px" src="https://raw.githubusercontent.com/asilisa/asilisa/main/icons8-github.svg">
+            <td width="80px" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <h3>In this project - Clouds and moon animation with HTML CSS</h3>
 <h4>Thanks to Evgeny Andrikanich (Code Only, Фрілансер по життю)</h4>
@@ -31,45 +72,7 @@ This site is live at https://iuliia-bogdanova.github.io/Clouds-and-moon-animatio
  <br>
 <h3 align="left">Skills</h3> 
 
- <table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>VSC</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>JS</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-            </td>           
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>PS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>npm</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="40px" src="https://raw.githubusercontent.com/asilisa/asilisa/main/icons8-github.svg">
-            <td width="80px" align="center">
-            <span><strong>Git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-            </td>
-        </tr>
-    </tbody>
-</table>
+
  
 <br>
 <p text-style="bold">｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 　　(◕‿◕✿)</p>
