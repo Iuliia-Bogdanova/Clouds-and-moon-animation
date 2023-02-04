@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Wolrd! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hello, World! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h2 align="center">I'm Iuliia, frontend developer</h2>
 
@@ -16,7 +16,14 @@
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>VSC</strong></span><br>
+            <span><strong>Sass</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+            </td>
+            <td width="80px" align="center"><span><strong>Bootstrap</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>VS Code</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
             </td>
             <td width="80px" align="center">
@@ -37,10 +44,7 @@
             <td width="80px" align="center">
             <span><strong>Git</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-            </td>
-            <td width="80px" align="center"><span><strong>Bootstrap</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-            </td>      
+            </td> 
         </tr>
     </tbody>
 </table>
