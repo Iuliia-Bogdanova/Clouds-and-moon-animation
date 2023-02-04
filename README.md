@@ -1,6 +1,6 @@
 <h1 align="center">Hello, Wolrd! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h2 align="center">I'm Iuliia, frontend developer <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+<h2 align="center">I'm Iuliia, frontend developer</h2>
 
 <h3 align="center">My skills:<h3>
 <!-- <p>HTML5, CSS3, Bootstrap, БЭМ, Git, JavaScript, Ajax, React</p> -->
@@ -22,11 +22,9 @@
             <td width="80px" align="center">
             <span><strong>JS</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-            </td>           
-        </tr>
-        <tr valign="top">
+            </td>
             <td width="80px" align="center">
-            <span><strong>PS</strong></span><br>
+            <span><strong>React</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
             <td width="80px" align="center">
@@ -39,7 +37,7 @@
             <td width="80px" align="center">
             <span><strong>Git</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-            </td>
+            </td>         
         </tr>
     </tbody>
 </table>
