@@ -37,12 +37,15 @@
             <td width="80px" align="center">
             <span><strong>Git</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-            </td>         
+            </td>
+            <td width="80px" align="center">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+            </td>      
         </tr>
     </tbody>
 </table>
 
-<h3>In this project - Clouds and moon animation with HTML CSS</h3>
+<h3>In this project - Clouds and Мoon animation with HTML CSS, responsive version</h3>
 <h4>Thanks to Evgeny Andrikanich (Code Only, Фрілансер по життю)</h4>
 <img src="./assets/img/promo.gif" alt="Clouds and moon animation">
 
