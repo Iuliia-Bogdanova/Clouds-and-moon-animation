@@ -1,6 +1,6 @@
-<h1 align="center">Hello, World! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">Hello, World! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
-<h2 align="center">I'm Iuliia, frontend developer</h2>
+<h1 align="center">I'm Iuliia, frontend developer</h1>
 
 <h3 align="center">My skills:<h3>
 <!-- <p>HTML5, CSS3, Bootstrap, БЭМ, Git, JavaScript, Ajax, React</p> -->
@@ -56,33 +56,3 @@
 <h4 align="center">Relax and enjoy!</h4>
 
 This site is live at https://iuliia-bogdanova.github.io/Clouds-and-moon-animation/
-
-<!-- <img align="center" src="https://github.com/asilisa/asilisa/blob/main/github_portfolio.png">
-
-<h1 align="center">Hello, world <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">I'm Asya. Junior frontend developer</h3>
-<br>
-
-🐴 Recently finished online shop's project [Module02-Shop](https://asilisa.github.io/Module02-Shop/dist) and web-developer's portfolio site [Portfolio](https://github.com/asilisa/profile/dist) 
-
-🦄 Keep learning **HTML, CSS, JavaScript**
-
-
-<br>
-<h3 align="left">Connect with me</h3>
-<p align="left">   <a href="https://t.me/asyafrolova" target="blank"><img align="center" src="https://github.com/asilisa/asilisa/blob/main/icons8-new-message-delivery-25.png?raw=true" alt="asyafrolova" height="18" width="18" />   Telegram</a> 
- <a href="https://codepen.io/asilisa" target="blank"><img align="center"  src="https://github.com/asilisa/asilisa/blob/main/icons8-codepen-an-online-community-for-testing-and-showcasing-code-snippets.-25.png" alt="asilisa" height="18" width="18" />   Codepen</a>
- </p>
-
- <br>
-<h3 align="left">Skills</h3> 
-
-
- 
-<br>
-<p text-style="bold">｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 　　(◕‿◕✿)</p>
-<br>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asilisa&show_icons=true&locale=en&layout=compact&theme=aura" alt="asilisa" /></p> -->
