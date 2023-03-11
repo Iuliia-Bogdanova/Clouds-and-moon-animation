@@ -50,7 +50,7 @@
 </table>
 
 <h3>In this project - Clouds and Мoon animation with HTML CSS, responsive version</h3>
-<h4>Thanks to Evgeny Andrikanich (Code Only, Фрілансер по життю)</h4>
+<h4>Thanks to Evgeny Andrikanich</h4>
 <img src="./assets/img/promo.gif" alt="Clouds and moon animation">
 
 <h4 align="center">Relax and enjoy!</h4>
